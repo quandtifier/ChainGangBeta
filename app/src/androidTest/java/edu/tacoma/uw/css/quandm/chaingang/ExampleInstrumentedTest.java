@@ -1,4 +1,4 @@
-package edu.tacoma.uw.css.quandm.chainganggamma;
+package edu.tacoma.uw.css.quandm.chaingang;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,9 +1,9 @@
-package edu.tacoma.uw.css.quandm.chainganggamma;
+package edu.tacoma.uw.css.quandm.chaingang;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import edu.tacoma.uw.css.quandm.chainganggamma.chain.ChainContent;
+import edu.tacoma.uw.css.quandm.chaingang.chain.ChainContent;
 
 public class ChooseChainActivity extends AppCompatActivity
         implements ChainListFragment.OnListFragmentInteractionListener {

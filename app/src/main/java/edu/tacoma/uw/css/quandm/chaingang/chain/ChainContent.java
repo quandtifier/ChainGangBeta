@@ -1,4 +1,4 @@
-package edu.tacoma.uw.css.quandm.chainganggamma.chain;
+package edu.tacoma.uw.css.quandm.chaingang.chain;
 
 import java.util.ArrayList;
 import java.util.HashMap;

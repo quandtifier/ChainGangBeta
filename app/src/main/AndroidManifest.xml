@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="edu.tacoma.uw.css.quandm.chainganggamma">
+    package="edu.tacoma.uw.css.quandm.chaingang">
 
     <application
         android:allowBackup="true"
@@ -9,15 +9,15 @@
         android:roundIcon="@mipmap/chaingang_logo_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LoginActivity">
+        <activity android:name="edu.tacoma.uw.css.quandm.chaingang.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CreateAccountActivity" />
-        <activity android:name=".ChooseChainActivity"></activity>
+        <activity android:name="edu.tacoma.uw.css.quandm.chaingang.CreateAccountActivity" />
+        <activity android:name="edu.tacoma.uw.css.quandm.chaingang.ChooseChainActivity"></activity>
     </application>
 
 </manifest>

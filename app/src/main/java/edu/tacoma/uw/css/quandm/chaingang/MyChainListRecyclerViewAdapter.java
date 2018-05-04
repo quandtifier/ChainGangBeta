@@ -1,4 +1,4 @@
-package edu.tacoma.uw.css.quandm.chainganggamma;
+package edu.tacoma.uw.css.quandm.chaingang;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -6,8 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import edu.tacoma.uw.css.quandm.chainganggamma.ChainListFragment.OnListFragmentInteractionListener;
-import edu.tacoma.uw.css.quandm.chainganggamma.chain.ChainContent.ChainItem;
+import edu.tacoma.uw.css.quandm.chaingang.ChainListFragment.OnListFragmentInteractionListener;
+import edu.tacoma.uw.css.quandm.chaingang.chain.ChainContent.ChainItem;
 
 import java.util.List;
 

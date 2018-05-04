@@ -1,4 +1,4 @@
-package edu.tacoma.uw.css.quandm.chainganggamma;
+package edu.tacoma.uw.css.quandm.chaingang;
 
 import org.junit.Test;
 
